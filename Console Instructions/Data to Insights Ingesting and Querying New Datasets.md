@@ -11,7 +11,7 @@ In this lab, you will learn how to perform the following tasks:
 
 ### Steps:
 
-1. Select the Project you choose to work with.
+1. Select the Project you choose to work with, replace <YOUR_PROJECT_ID> with your own Project ID.
 	```
 	gcloud config set project <YOUR_PROJECT_ID>
 	```
